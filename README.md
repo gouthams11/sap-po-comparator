@@ -1,6 +1,6 @@
 # SAP PO Communication Channel Comparator
 
-![SAP PO Comparator](https://github.com/yourusername/sap-po-comparator/raw/main/screenshot.png)
+[SAP PO Comparator](https://gouthams11.github.io/sap-po-comparator/)
 
 A web-based tool for comparing communication channel parameters between Quality Assurance (QA) and Production (Prod) environments in SAP Process Orchestration (PO). This tool helps identify configuration differences and ensures consistency across environments.
 
